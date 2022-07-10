@@ -54,9 +54,9 @@ coverage
 # ignore packages
 node_modules
 package-lock.json
+yarn.lock
 
 *.dump
-
 
 # cypress
 test/cypress/videos/*
